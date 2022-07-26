@@ -9,6 +9,7 @@ An (incomplete) collection of useful resources for board game collectors and ent
 ## Websites
 - **[BoardGameGeek](https://boardgamegeek.com/)**
 - **[Board Game Atlas](https://www.boardgameatlas.com/)**
+- **[Game Scan](http://gamescanapp.com/scan)**
 - **[KallaX.io](https://kallax.io/)**
 
 ## Blogs & Written Reviews of Board Games
